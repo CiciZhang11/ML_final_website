@@ -1,0 +1,4 @@
+Resume_ID,Name,Skills,Experience (Years),Education,Certifications,Job Role,Salary Expectation ($),Projects Count
+101,Alice Chen,"Python, Machine Learning, SQL",5,B.Tech,AWS Certified,Data Scientist,95000,6
+102,Bob Davis,"Cybersecurity, Ethical Hacking, Linux",3,MBA,None,Cybersecurity Analyst,72000,4
+103,Carol Evans,"TensorFlow, NLP, Deep Learning",0,M.Tech,Google ML,AI Researcher,55000,2
